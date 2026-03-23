@@ -6,9 +6,18 @@
       "tag": "v2.9.1524-debug",
       "file": "quicktvui-runtime-debug-v2.9.1524.apk",
       "repo_path": "apks/debug/quicktvui-runtime-debug-v2.9.1524.apk",
-      "release_download_url": "https://github.com/<ORG>/<REPO>/releases/download/v2.9.1524-debug/quicktvui-runtime-debug-v2.9.1524.apk",
+      "release_download_url": "https://github.com/quicktvui/quicktvui-runtime-apk/releases/download/v2.9.1524-debug/quicktvui-runtime-debug-v2.9.1524.apk",
       "updated_at": "2026-03-06T00:00:00Z"
     }
   ],
-  "release": []
+  "release": [
+    {
+      "version": "2.9.1584",
+      "tag": "v2.9.1584",
+      "file": "quicktvui-runtime-release-v2.9.1584.apk",
+      "repo_path": "apks/release/quicktvui-runtime-release-v2.9.1584.apk",
+      "release_download_url": "https://github.com/quicktvui/quicktvui-runtime-apk/releases/download/v2.9.1584/quicktvui-runtime-release-v2.9.1584.apk",
+      "updated_at": "2026-03-23T07:16:55Z"
+    }
+  ]
 }

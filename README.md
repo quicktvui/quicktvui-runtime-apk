@@ -15,7 +15,7 @@
 │   ├── debug/
 │   │   └── quicktvui-runtime-debug-v2.9.1524.apk
 │   └── release/
-│       └── .gitkeep
+│       └── quicktvui-runtime-release-v2.9.1584.apk
 ├── checksums/
 │   └── sha256.txt
 └── manifests/
@@ -28,7 +28,7 @@
 ## 通道约定
 
 - `debug`：开发联调用，当前已有 `2.9.1524`
-- `release`：正式发布用，当前未上传（`pending`）
+- `release`：正式发布用，当前已有 `2.9.1584`
 
 ## AI/自动化读取入口
 
@@ -46,10 +46,10 @@
 ## 下载链接规范（GitHub Releases）
 
 Debug 版本：
-`https://github.com/<ORG>/<REPO>/releases/download/v2.9.1524-debug/quicktvui-runtime-debug-v2.9.1524.apk`
+`https://github.com/quicktvui/quicktvui-runtime-apk/releases/download/v2.9.1524-debug/quicktvui-runtime-debug-v2.9.1524.apk`
 
 Release 版本（示例）：
-`https://github.com/<ORG>/<REPO>/releases/download/v2.9.1524/quicktvui-runtime-release-v2.9.1524.apk`
+`https://github.com/quicktvui/quicktvui-runtime-apk/releases/download/v2.9.1524/quicktvui-runtime-release-v2.9.1524.apk`
 
 ## 安装示例
 
