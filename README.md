@@ -15,7 +15,7 @@
 │   ├── debug/
 │   │   └── quicktvui-runtime-debug-v2.9.1524.apk
 │   └── release/
-│       └── quicktvui-runtime-release-v2.9.1584.apk
+│       └── quicktvui-runtime-release-v2.9.1585.apk
 ├── checksums/
 │   └── sha256.txt
 └── manifests/
@@ -28,7 +28,7 @@
 ## 通道约定
 
 - `debug`：开发联调用，当前已有 `2.9.1524`
-- `release`：正式发布用，当前已有 `2.9.1584`
+- `release`：正式发布用，当前已有 `2.9.1585`
 
 ## AI/自动化读取入口
 

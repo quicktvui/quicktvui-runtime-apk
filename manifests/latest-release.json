@@ -2,11 +2,11 @@
   "name": "quicktvui-runtime",
   "channel": "release",
   "status": "available",
-  "version": "2.9.1584",
-  "tag": "v2.9.1584",
-  "file": "quicktvui-runtime-release-v2.9.1584.apk",
-  "repo_path": "apks/release/quicktvui-runtime-release-v2.9.1584.apk",
-  "release_download_url": "https://github.com/quicktvui/quicktvui-runtime-apk/releases/download/v2.9.1584/quicktvui-runtime-release-v2.9.1584.apk",
-  "sha256": "a411c94f9cb9625b3f72cf21e5ee470dec27381dacffcce819968fe6a9436545",
-  "updated_at": "2026-03-23T07:16:55Z"
+  "version": "2.9.1585",
+  "tag": "v2.9.1585",
+  "file": "quicktvui-runtime-release-v2.9.1585.apk",
+  "repo_path": "apks/release/quicktvui-runtime-release-v2.9.1585.apk",
+  "release_download_url": "https://github.com/quicktvui/quicktvui-runtime-apk/releases/download/v2.9.1585/quicktvui-runtime-release-v2.9.1585.apk",
+  "sha256": "98a94b076dbb37a7a42a21642b65a7ddd862b595c6fb75c5fefc931d330d90eb",
+  "updated_at": "2026-03-31T04:44:23Z"
 }

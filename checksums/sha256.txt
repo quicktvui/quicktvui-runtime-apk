@@ -1,2 +1,2 @@
 a1980ad28bab449003b333577b4bc05129ceaf8b5c9292dfd23a6bd21deaa93b  apks/debug/quicktvui-runtime-debug-v2.9.1524.apk
-a411c94f9cb9625b3f72cf21e5ee470dec27381dacffcce819968fe6a9436545  apks/release/quicktvui-runtime-release-v2.9.1584.apk
+98a94b076dbb37a7a42a21642b65a7ddd862b595c6fb75c5fefc931d330d90eb  apks/release/quicktvui-runtime-release-v2.9.1585.apk
