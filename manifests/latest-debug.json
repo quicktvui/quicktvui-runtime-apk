@@ -6,7 +6,7 @@
   "tag": "v2.9.1524-debug",
   "file": "quicktvui-runtime-debug-v2.9.1524.apk",
   "repo_path": "apks/debug/quicktvui-runtime-debug-v2.9.1524.apk",
-  "release_download_url": "https://github.com/quicktvui/quicktvui-runtime-apk/releases/download/v2.9.1524-debug/quicktvui-runtime-debug-v2.9.1524.apk",
+  "release_download_url": "https://raw.githubusercontent.com/quicktvui/quicktvui-runtime-apk/main/apks/debug/quicktvui-runtime-debug-v2.9.1524.apk",
   "sha256": "a1980ad28bab449003b333577b4bc05129ceaf8b5c9292dfd23a6bd21deaa93b",
   "updated_at": "2026-03-06T00:00:00Z"
 }

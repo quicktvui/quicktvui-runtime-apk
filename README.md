@@ -43,13 +43,13 @@
 2. 再按通道读 `latest-debug.json` 或 `latest-release.json`
 3. 下载后用 `checksums/sha256.txt` 校验
 
-## 下载链接规范（GitHub Releases）
+## 下载链接规范（GitHub 仓库直链）
 
 Debug 版本：
-`https://github.com/quicktvui/quicktvui-runtime-apk/releases/download/v2.9.1524-debug/quicktvui-runtime-debug-v2.9.1524.apk`
+`https://raw.githubusercontent.com/quicktvui/quicktvui-runtime-apk/main/apks/debug/quicktvui-runtime-debug-v2.9.1524.apk`
 
 Release 版本（示例）：
-`https://github.com/quicktvui/quicktvui-runtime-apk/releases/download/v2.9.1524/quicktvui-runtime-release-v2.9.1524.apk`
+`https://raw.githubusercontent.com/quicktvui/quicktvui-runtime-apk/main/apks/release/quicktvui-runtime-release-v2.9.1585.apk`
 
 ## 安装示例
 
@@ -65,6 +65,6 @@ adb install -r apks/debug/quicktvui-runtime-debug-v2.9.1524.apk
    - `quicktvui-runtime-release-v<version>.apk`
 3. 更新 `checksums/sha256.txt`
 4. 更新 `manifests/latest-*.json` 与 `manifests/history.json`
-5. 创建对应 Tag 并上传到 GitHub Releases
+5. 如需对外发版，可额外创建 GitHub Release；仓库内清单默认维护仓库文件直链
 
 完成后，这个仓库可以同时服务人类下载和 AI 自动化分发。
